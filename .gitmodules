@@ -1,0 +1,292 @@
+[submodule "convert-to-git"]
+	path = convert-to-git
+	url = git@github.com:mojohaus/convert-to-git.git
+	branch = master
+[submodule "mojohaus.github.io"]
+	path = mojohaus.github.io
+	url = git@github.com:mojohaus/mojohaus.github.io.git
+	branch = master
+[submodule "animal-sniffer"]
+	path = animal-sniffer
+	url = git@github.com:mojohaus/animal-sniffer.git
+	branch = master
+[submodule "build-helper-maven-plugin"]
+	path = build-helper-maven-plugin
+	url = git@github.com:mojohaus/build-helper-maven-plugin.git
+	branch = master
+[submodule "buildnumber-maven-plugin"]
+	path = buildnumber-maven-plugin
+	url = git@github.com:mojohaus/buildnumber-maven-plugin.git
+	branch = master
+[submodule "clirr-maven-plugin"]
+	path = clirr-maven-plugin
+	url = git@github.com:mojohaus/clirr-maven-plugin.git
+	branch = master
+[submodule "cobertura-maven-plugin"]
+	path = cobertura-maven-plugin
+	url = git@github.com:mojohaus/cobertura-maven-plugin.git
+	branch = master
+[submodule "dbunit-maven-plugin"]
+	path = dbunit-maven-plugin
+	url = git@github.com:mojohaus/dbunit-maven-plugin.git
+	branch = master
+[submodule "dbupgrade"]
+	path = dbupgrade
+	url = git@github.com:mojohaus/dbupgrade.git
+	branch = master
+[submodule "ditaot-maven-plugin"]
+	path = ditaot-maven-plugin
+	url = git@github.com:mojohaus/ditaot-maven-plugin.git
+	branch = master
+[submodule "enchanter"]
+	path = enchanter
+	url = git@github.com:mojohaus/enchanter.git
+	branch = master
+[submodule "exec-maven-plugin"]
+	path = exec-maven-plugin
+	url = git@github.com:mojohaus/exec-maven-plugin.git
+	branch = master
+[submodule "extra-enforcer-rules"]
+	path = extra-enforcer-rules
+	url = git@github.com:mojohaus/extra-enforcer-rules.git
+	branch = master
+[submodule "findbugs-maven-plugin"]
+	path = findbugs-maven-plugin
+	url = git@github.com:mojohaus/findbugs-maven-plugin.git
+	branch = master
+[submodule "flatten-maven-plugin"]
+	path = flatten-maven-plugin
+	url = git@github.com:mojohaus/flatten-maven-plugin.git
+	branch = master
+[submodule "gwt-maven-plugin"]
+	path = gwt-maven-plugin
+	url = git@github.com:mojohaus/gwt-maven-plugin.git
+	branch = master
+[submodule "javancss-maven-plugin"]
+	path = javancss-maven-plugin
+	url = git@github.com:mojohaus/javancss-maven-plugin.git
+	branch = master
+[submodule "jaxb2-maven-plugin"]
+	path = jaxb2-maven-plugin
+	url = git@github.com:mojohaus/jaxb2-maven-plugin.git
+	branch = master
+[submodule "jboss-packaging-maven-plugin"]
+	path = jboss-packaging-maven-plugin
+	url = git@github.com:mojohaus/jboss-packaging-maven-plugin.git
+	branch = master
+[submodule "jdepend-maven-plugin"]
+	path = jdepend-maven-plugin
+	url = git@github.com:mojohaus/jdepend-maven-plugin.git
+	branch = master
+[submodule "jdiff-maven-plugin"]
+	path = jdiff-maven-plugin
+	url = git@github.com:mojohaus/jdiff-maven-plugin.git
+	branch = master
+[submodule "license-maven-plugin"]
+	path = license-maven-plugin
+	url = git@github.com:mojohaus/license-maven-plugin.git
+	branch = master
+[submodule "maven-native"]
+	path = maven-native
+	url = git@github.com:mojohaus/maven-native.git
+	branch = master
+[submodule "mojo-parent"]
+	path = mojo-parent
+	url = git@github.com:mojohaus/mojo-parent.git
+	branch = master
+[submodule "mrm"]
+	path = mrm
+	url = git@github.com:mojohaus/mrm.git
+	branch = master
+[submodule "properties-maven-plugin"]
+	path = properties-maven-plugin
+	url = git@github.com:mojohaus/properties-maven-plugin.git
+	branch = master
+[submodule "rpm-maven-plugin"]
+	path = rpm-maven-plugin
+	url = git@github.com:mojohaus/rpm-maven-plugin.git
+	branch = master
+[submodule "sonar-maven-plugin"]
+	path = sonar-maven-plugin
+	url = git@github.com:mojohaus/sonar-maven-plugin.git
+	branch = master
+[submodule "sql-maven-plugin"]
+	path = sql-maven-plugin
+	url = git@github.com:mojohaus/sql-maven-plugin.git
+	branch = master
+[submodule "sqlj-maven-plugin"]
+	path = sqlj-maven-plugin
+	url = git@github.com:mojohaus/sqlj-maven-plugin.git
+	branch = master
+[submodule "taglist-maven-plugin"]
+	path = taglist-maven-plugin
+	url = git@github.com:mojohaus/taglist-maven-plugin.git
+	branch = master
+[submodule "templating-maven-plugin"]
+	path = templating-maven-plugin
+	url = git@github.com:mojohaus/templating-maven-plugin.git
+	branch = master
+[submodule "tidy-maven-plugin"]
+	path = tidy-maven-plugin
+	url = git@github.com:mojohaus/tidy-maven-plugin.git
+	branch = master
+[submodule "versions-maven-plugin"]
+	path = versions-maven-plugin
+	url = git@github.com:mojohaus/versions-maven-plugin.git
+	branch = master
+[submodule "vfs"]
+	path = vfs
+	url = git@github.com:mojohaus/vfs.git
+	branch = master
+[submodule "wagon-maven-plugin"]
+	path = wagon-maven-plugin
+	url = git@github.com:mojohaus/wagon-maven-plugin.git
+	branch = master
+[submodule "webstart"]
+	path = webstart
+	url = git@github.com:mojohaus/webstart.git
+	branch = master
+[submodule "xml-maven-plugin"]
+	path = xml-maven-plugin
+	url = git@github.com:mojohaus/xml-maven-plugin.git
+	branch = master
+[submodule "appassembler"]
+	path = appassembler
+	url = git@github.com:mojohaus/appassembler.git
+	branch = master
+[submodule "castor-maven-plugin"]
+	path = castor-maven-plugin
+	url = git@github.com:mojohaus/castor-maven-plugin.git
+	branch = master
+[submodule "truezip"]
+	path = truezip
+	url = git@github.com:mojohaus/truezip.git
+	branch = master
+[submodule "keytool"]
+	path = keytool
+	url = git@github.com:mojohaus/keytool.git
+	branch = master
+[submodule "latex-maven"]
+	path = latex-maven
+	url = git@github.com:mojohaus/latex-maven.git
+	branch = master
+[submodule "cassandra-maven-plugin"]
+	path = cassandra-maven-plugin
+	url = git@github.com:mojohaus/cassandra-maven-plugin.git
+	branch = master
+[submodule "redirector"]
+	path = redirector
+	url = git@github.com:mojohaus/redirector.git
+	branch = master
+[submodule "nbm-maven-harness"]
+	path = nbm-maven-harness
+	url = git@github.com:mojohaus/nbm-maven-harness.git
+	branch = master
+[submodule "nbm-maven-plugin"]
+	path = nbm-maven-plugin
+	url = git@github.com:mojohaus/nbm-maven-plugin.git
+	branch = master
+[submodule "nbm-shared"]
+	path = nbm-shared
+	url = git@github.com:mojohaus/nbm-shared.git
+	branch = master
+[submodule "nb-repository-plugin"]
+	path = nb-repository-plugin
+	url = git@github.com:mojohaus/nb-repository-plugin.git
+	branch = master
+[submodule "appclient-javaee6"]
+	path = appclient-javaee6
+	url = git@github.com:mojohaus/appclient-javaee6.git
+	branch = master
+[submodule "appclient-javaee7"]
+	path = appclient-javaee7
+	url = git@github.com:mojohaus/appclient-javaee7.git
+	branch = master
+[submodule "appclient-jee5"]
+	path = appclient-jee5
+	url = git@github.com:mojohaus/appclient-jee5.git
+	branch = master
+[submodule "ear-j2ee14"]
+	path = ear-j2ee14
+	url = git@github.com:mojohaus/ear-j2ee14.git
+	branch = master
+[submodule "ear-javaee6"]
+	path = ear-javaee6
+	url = git@github.com:mojohaus/ear-javaee6.git
+	branch = master
+[submodule "ear-javaee7"]
+	path = ear-javaee7
+	url = git@github.com:mojohaus/ear-javaee7.git
+	branch = master
+[submodule "ear-jee5"]
+	path = ear-jee5
+	url = git@github.com:mojohaus/ear-jee5.git
+	branch = master
+[submodule "ejb-j2ee13"]
+	path = ejb-j2ee13
+	url = git@github.com:mojohaus/ejb-j2ee13.git
+	branch = master
+[submodule "ejb-j2ee14"]
+	path = ejb-j2ee14
+	url = git@github.com:mojohaus/ejb-j2ee14.git
+	branch = master
+[submodule "ejb-javaee6"]
+	path = ejb-javaee6
+	url = git@github.com:mojohaus/ejb-javaee6.git
+	branch = master
+[submodule "ejb-javaee7"]
+	path = ejb-javaee7
+	url = git@github.com:mojohaus/ejb-javaee7.git
+	branch = master
+[submodule "ejb-jee5"]
+	path = ejb-jee5
+	url = git@github.com:mojohaus/ejb-jee5.git
+	branch = master
+[submodule "javafx"]
+	path = javafx
+	url = git@github.com:mojohaus/javafx.git
+	branch = master
+[submodule "nbm-archetype"]
+	path = nbm-archetype
+	url = git@github.com:mojohaus/nbm-archetype.git
+	branch = master
+[submodule "nbm-suite-root"]
+	path = nbm-suite-root
+	url = git@github.com:mojohaus/nbm-suite-root.git
+	branch = master
+[submodule "netbeans-platform-app-archetype"]
+	path = netbeans-platform-app-archetype
+	url = git@github.com:mojohaus/netbeans-platform-app-archetype.git
+	branch = master
+[submodule "osgi-archetype"]
+	path = osgi-archetype
+	url = git@github.com:mojohaus/osgi-archetype.git
+	branch = master
+[submodule "pom-root"]
+	path = pom-root
+	url = git@github.com:mojohaus/pom-root.git
+	branch = master
+[submodule "sample-javafx"]
+	path = sample-javafx
+	url = git@github.com:mojohaus/sample-javafx.git
+	branch = master
+[submodule "webapp-j2ee13"]
+	path = webapp-j2ee13
+	url = git@github.com:mojohaus/webapp-j2ee13.git
+	branch = master
+[submodule "webapp-j2ee14"]
+	path = webapp-j2ee14
+	url = git@github.com:mojohaus/webapp-j2ee14.git
+	branch = master
+[submodule "webapp-javaee6"]
+	path = webapp-javaee6
+	url = git@github.com:mojohaus/webapp-javaee6.git
+	branch = master
+[submodule "webapp-javaee7"]
+	path = webapp-javaee7
+	url = git@github.com:mojohaus/webapp-javaee7.git
+	branch = master
+[submodule "webapp-jee5"]
+	path = webapp-jee5
+	url = git@github.com:mojohaus/webapp-jee5.git
+	branch = master
